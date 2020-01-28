@@ -22,3 +22,8 @@ Existen muchos canales y blogs dedicados al desarrollo de videojuegos con Unity.
 
 [itch.io](https://itch.io/) - Un lugar donde compartir juegos indie
 
+## Game Dev Week
+Link del proyecto 2D realizado por Carlos López
+
+[https://github.com/CarlosLop94/42madrid-gamejam2D](https://github.com/CarlosLop94/42madrid-gamejam2D)
+
