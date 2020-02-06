@@ -1,4 +1,4 @@
-# 42madrid_3dgame
+# GDW_Dino3D
 Una réplica en 3D del famoso juego del dinosaurio de Google Chrome.
 
 ## Primeros pasos
